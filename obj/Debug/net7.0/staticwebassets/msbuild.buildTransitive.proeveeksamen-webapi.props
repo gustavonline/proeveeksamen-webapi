@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/proeveeksamen-webapi.props" />
+</Project>
